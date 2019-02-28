@@ -1,0 +1,48 @@
+.FormCreatePost{
+    width: 500px;
+    border: 2px solid #f5f6f7;
+}
+.p-publicacion{
+    background: #f5f6f7;
+    height: 30px;
+    display: flex;
+    align-items:center;
+}
+.p-publicacion > p {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 13px;
+    color: #1d2129;
+    margin-left: 10px;
+}
+.post-body{
+    margin-left: 60px;
+    border: none;
+    overflow: auto;
+    outline: none;
+    padding-top: 10px;
+    resize: none;
+    width: 80%;
+    border: none;
+    outline: none;
+}
+.input-submit{
+    display: flex;
+    justify-content: flex-end;
+}
+.submit-post{
+    margin-top: 5px;
+}
+.img-post{
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    position: absolute;
+    margin-top:10px;
+    margin-left:8px;
+}
+.submit-post{
+    border: none;
+    background: #f5f6f7;
+}

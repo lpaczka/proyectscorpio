@@ -1,0 +1,30 @@
+.UsersLive{
+    display: flex;
+}
+.Sesion{
+    margin: 0;
+    padding: 0;
+    border: 2px solid #007bff;
+    border-radius: 20px;
+    display: flex;
+    width: 170px;
+    height: 35px;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img-session{
+    margin: 0;
+    padding: 0;
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    margin-left: 5px;
+
+}
+.nombre{
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+}

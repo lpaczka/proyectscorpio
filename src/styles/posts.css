@@ -1,0 +1,30 @@
+.Post{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.presentacion{
+    display: flex;
+    align-items: center;
+    background: rgb(228, 228, 228);
+    border-radius: 20px;
+
+}
+.foto-circular{
+    margin: 0;
+    padding: 0;
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    margin-left: 5px;
+}
+.nombre-post{
+    margin-left: 10px;
+}
+.body{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 10px;
+}

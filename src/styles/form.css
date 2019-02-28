@@ -1,0 +1,18 @@
+.formulario-register{
+    height: 86vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    width: 400px;
+}
+.centrar-boton{
+    display: flex;
+    justify-content: center;
+}
+.verde{
+    background-color: #e3f2fd;
+    color: black;
+}
